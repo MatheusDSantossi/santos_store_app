@@ -8,6 +8,8 @@ import 'package:santos_store_app/utils/theme/custom_themes/outlined_button_theme
 import 'package:santos_store_app/utils/theme/custom_themes/text_field_theme.dart';
 import 'package:santos_store_app/utils/theme/custom_themes/text_theme.dart';
 
+// Create helper functions, constants and utility classes.
+
 class MAppTheme {
   MAppTheme._();
 
