@@ -60,6 +60,3 @@ class MValidator {
 
   // Add more custom validators as needed for your specific requirements.
 }
-
-// git commit
-// Essential Utilities, Helper Functions, Constants. Making a professional flutter structure
